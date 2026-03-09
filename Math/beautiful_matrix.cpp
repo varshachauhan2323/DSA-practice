@@ -15,4 +15,4 @@ int main(){
     }
     cout<<abs(row-3)+abs(col-3);
     return 0;
-}
+}   
