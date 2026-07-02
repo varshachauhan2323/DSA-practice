@@ -28,6 +28,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/varshachauhan2323/DSA-practice/tree/master/0006-zigzag-conversion) |
+| [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -36,4 +37,5 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
