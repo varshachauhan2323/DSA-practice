@@ -33,9 +33,19 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
