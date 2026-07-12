@@ -61,6 +61,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
@@ -71,11 +72,13 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
@@ -91,6 +94,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
