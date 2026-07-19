@@ -77,6 +77,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -118,6 +119,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,6 +135,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -143,6 +146,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -167,4 +171,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
