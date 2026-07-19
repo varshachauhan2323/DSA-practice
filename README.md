@@ -28,6 +28,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/varshachauhan2323/DSA-practice/tree/master/0006-zigzag-conversion) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -97,6 +99,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -119,6 +122,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -143,6 +147,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -158,4 +163,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
