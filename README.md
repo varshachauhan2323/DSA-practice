@@ -82,6 +82,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -128,6 +129,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -159,6 +161,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -188,6 +191,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
