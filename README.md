@@ -117,6 +117,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -191,6 +192,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -235,4 +237,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
