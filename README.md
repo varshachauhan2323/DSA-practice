@@ -40,6 +40,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+| [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0623-add-one-row-to-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -202,6 +204,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0623-add-one-row-to-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -249,6 +252,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -258,4 +262,5 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
