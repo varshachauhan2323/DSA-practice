@@ -129,6 +129,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
@@ -208,6 +209,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
@@ -260,6 +262,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -267,4 +270,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
