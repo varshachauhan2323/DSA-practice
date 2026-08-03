@@ -234,6 +234,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshachauhan2323/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
@@ -274,4 +275,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
