@@ -120,6 +120,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -195,6 +196,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0144-binary-tree-preorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -262,6 +264,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
@@ -274,6 +277,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 ## Math
 |  |
