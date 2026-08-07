@@ -37,6 +37,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0001-two-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
@@ -48,6 +49,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/varshachauhan2323/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
@@ -60,6 +62,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
@@ -296,4 +299,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
