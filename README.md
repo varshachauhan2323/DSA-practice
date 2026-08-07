@@ -36,6 +36,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
