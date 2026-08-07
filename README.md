@@ -39,6 +39,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -287,4 +288,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
