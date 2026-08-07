@@ -31,6 +31,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0125-valid-palindrome](https://github.com/varshachauhan2323/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/varshachauhan2323/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
