@@ -29,6 +29,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/varshachauhan2323/DSA-practice/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/varshachauhan2323/DSA-practice/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/varshachauhan2323/DSA-practice/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
@@ -79,6 +80,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0001-two-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/varshachauhan2323/DSA-practice/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/varshachauhan2323/DSA-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -131,6 +133,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/varshachauhan2323/DSA-practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
@@ -312,4 +315,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/varshachauhan2323/DSA-practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
