@@ -48,6 +48,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0033-search-in-rotated-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/varshachauhan2323/DSA-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -236,6 +239,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/varshachauhan2323/DSA-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
@@ -280,6 +284,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -292,6 +297,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Topological Sort
 |  |
@@ -326,4 +332,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
