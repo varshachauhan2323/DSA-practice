@@ -250,6 +250,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -345,8 +348,10 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
