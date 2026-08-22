@@ -51,6 +51,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0088-merge-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
