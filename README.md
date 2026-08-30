@@ -33,6 +33,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -73,6 +75,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0075-sort-colors](https://github.com/varshachauhan2323/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -89,6 +92,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0001-two-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/varshachauhan2323/DSA-practice/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/varshachauhan2323/DSA-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -154,6 +158,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -240,6 +245,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -297,6 +303,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/varshachauhan2323/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
