@@ -1,6 +1,7 @@
+    vector<int>parent,sizee;
+
 class disjoint{
     public:
-    vector<int>parent,sizee;
     disjoint(int n){
         sizee.resize(n+1,1);
         parent.resize(n+1,0);
@@ -48,7 +49,7 @@ public:
         }
         int comp=0;
         for(int i=0;i<n;i++){
-            if(ds.findparent(i)==i) comp++;
+            if(parent[i]==i) comp++;
         }
         int ans=comp-1;
         if(cntextra>=ans) return ans;
