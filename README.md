@@ -51,6 +51,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -163,6 +164,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
@@ -250,6 +252,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0993-cousins-in-binary-tree) |
@@ -304,6 +307,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/varshachauhan2323/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -322,6 +326,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/varshachauhan2323/DSA-practice/tree/master/1992-find-all-groups-of-farmland) |
 ## Topological Sort
