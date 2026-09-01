@@ -34,6 +34,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/varshachauhan2323/DSA-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -96,6 +99,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/varshachauhan2323/DSA-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
