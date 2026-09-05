@@ -169,6 +169,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
@@ -258,6 +259,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/varshachauhan2323/DSA-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/varshachauhan2323/DSA-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
@@ -316,6 +318,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/varshachauhan2323/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/varshachauhan2323/DSA-practice/tree/master/1631-path-with-minimum-effort) |
@@ -324,6 +327,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/varshachauhan2323/DSA-practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/varshachauhan2323/DSA-practice/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/varshachauhan2323/DSA-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -389,4 +393,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
