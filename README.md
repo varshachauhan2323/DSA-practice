@@ -275,6 +275,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -354,6 +355,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -401,4 +403,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/varshachauhan2323/DSA-practice/tree/master/0785-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
