@@ -276,6 +276,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/varshachauhan2323/DSA-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
@@ -357,6 +358,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshachauhan2323/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/varshachauhan2323/DSA-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -409,4 +411,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/varshachauhan2323/DSA-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
