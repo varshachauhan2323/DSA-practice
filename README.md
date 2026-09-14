@@ -47,6 +47,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/varshachauhan2323/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varshachauhan2323/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/varshachauhan2323/DSA-practice/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/varshachauhan2323/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
@@ -282,6 +283,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0063-unique-paths-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/varshachauhan2323/DSA-practice/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/varshachauhan2323/DSA-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
