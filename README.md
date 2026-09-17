@@ -52,6 +52,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/varshachauhan2323/DSA-practice/tree/master/0695-max-area-of-island) |
@@ -287,6 +288,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0120-triangle](https://github.com/varshachauhan2323/DSA-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -426,4 +428,12 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varshachauhan2323/DSA-practice/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
