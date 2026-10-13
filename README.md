@@ -52,6 +52,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/varshachauhan2323/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/varshachauhan2323/DSA-practice/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
@@ -164,6 +165,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0200-number-of-islands](https://github.com/varshachauhan2323/DSA-practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/varshachauhan2323/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varshachauhan2323/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
@@ -288,6 +290,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0120-triangle](https://github.com/varshachauhan2323/DSA-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -431,9 +434,14 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
