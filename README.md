@@ -34,6 +34,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
@@ -296,6 +297,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0518-coin-change-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/varshachauhan2323/DSA-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -448,4 +450,8 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | ------- |
 | [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
