@@ -33,6 +33,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varshachauhan2323/DSA-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/varshachauhan2323/DSA-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/varshachauhan2323/DSA-practice/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/varshachauhan2323/DSA-practice/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varshachauhan2323/DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -294,6 +295,7 @@ Problems practiced from LeetCode and Striver's A2Z DSA Sheet.
 | [0198-house-robber](https://github.com/varshachauhan2323/DSA-practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/varshachauhan2323/DSA-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/varshachauhan2323/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/varshachauhan2323/DSA-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/varshachauhan2323/DSA-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/varshachauhan2323/DSA-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/varshachauhan2323/DSA-practice/tree/master/0787-cheapest-flights-within-k-stops) |
